@@ -1,0 +1,17 @@
+{
+  "name": "interview-feedback",
+  "version": "1.0.0",
+  "description": "Platform where admin can give their interview feedback to students and students can check the feedback given to them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.4.2",
+    "validator": "^13.11.0"
+  }
+}
